@@ -101,7 +101,7 @@ NodeSource will maintain support for stable, testing and unstable releases of De
 
 **Node.js v9.x**:
 
-* NOTE: Debian Wheezy packages are NOT available for this release. Please reference [running Node.js >= 4.x on older distros](https://github.com/nodesource/distributions/blob/master/OLDER_DISTROS.md).
+* NOTE: Debian Wheezy packages are NOT available for this release. Please refer to [running Node.js >= 4.x on older distros](https://github.com/nodesource/distributions/blob/master/OLDER_DISTROS.md).
 
 ```sh
 # Using Ubuntu
@@ -115,7 +115,7 @@ apt-get install -y nodejs
 
 **Node.js v8.x**:
 
-* NOTE: Debian Wheezy packages are NOT available for this release. Please reference [running Node.js >= 4.x on older distros](https://github.com/nodesource/distributions/blob/master/OLDER_DISTROS.md).
+* NOTE: Debian Wheezy packages are NOT available for this release. Please refer to [running Node.js >= 4.x on older distros](https://github.com/nodesource/distributions/blob/master/OLDER_DISTROS.md).
 
 ```sh
 # Using Ubuntu
